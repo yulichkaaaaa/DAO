@@ -49,4 +49,8 @@ public class Warehouse {
     public Student get(int index){
         return students.get(index);
     }
+
+    public List<Student> getAll(){
+        return new ArrayList<>(students);
+    }
 }
