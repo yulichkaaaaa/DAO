@@ -1,6 +1,6 @@
 package com.yuliana.dao.model.dao;
 
-import com.yuliana.dao.exceptions.DaoException;
+import com.yuliana.dao.exception.DaoException;
 import com.yuliana.dao.model.entity.Student;
 import org.apache.logging.log4j.LogManager;
 import org.apache.logging.log4j.Logger;

@@ -1,6 +1,6 @@
 package com.yuliana.dao.model.reader;
 
-import com.yuliana.dao.exceptions.ValidationException;
+import com.yuliana.dao.exception.ValidationException;
 import com.yuliana.dao.model.entity.Course;
 import com.yuliana.dao.model.entity.Student;
 import com.yuliana.dao.util.StudentValidator;

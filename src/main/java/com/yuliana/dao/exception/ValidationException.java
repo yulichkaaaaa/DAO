@@ -1,4 +1,4 @@
-package com.yuliana.dao.exceptions;
+package com.yuliana.dao.exception;
 
 public class ValidationException extends Exception{
 
